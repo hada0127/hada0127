@@ -1,7 +1,3 @@
-# hada0127
-- https://tarucy.net
-- Blog : https://girldevstudy.tistory.com/
-
 # 개인 프로젝트
 ## Podo-ui - 디자인 시스템(제작중)
 Next.js, SCSS 모듈 기반 디자인 시스템
@@ -17,5 +13,10 @@ Next.js, SCSS 모듈 기반 디자인 시스템
 - Figma Plugin : https://www.figma.com/community/plugin/1210383539277701315/sadmin
 
 ## 레트로 비디오 게임 필터
+hdmi 캡쳐카드용 레트로 비디오 게임 필터 어플리케이션
 - 배포 : https://github.com/hada0127/videogamefilter/releases
 - Git : https://github.com/hada0127/videogamefilter
+
+## taru_mouse 영문 폰트
+마우스로 한땀한땀그린 폰트
+- 배포 : https://font.tarucy.net
