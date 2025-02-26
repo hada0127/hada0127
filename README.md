@@ -7,7 +7,7 @@
 Next.js, SCSS 모듈 기반 디자인 시스템
 - Git : https://github.com/hada0127/podo-ui
 
-## Pado - Reative 라이브러리(제작중)
+## Pado - Reactive 라이브러리(제작중)
 풀스택 웹사이트 제작이 가능한 Reactive 라이브러리
 - Git : https://github.com/hada0127/pado
 
