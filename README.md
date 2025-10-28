@@ -5,7 +5,7 @@ React, SCSS 모듈 기반 디자인 시스템
 - NPM : https://www.npmjs.com/package/podo-ui
 
 ## Peach Leaf 
-MacOS용 Markdown Stiker Note
+MacOS용 Markdown Stiky Notes
 - Git : https://github.com/hada0127/peach-leaf
 
 ## Pado - Reactive 라이브러리(제작중)
