@@ -1,7 +1,12 @@
 # 개인 프로젝트
-## Podo-ui - 디자인 시스템(제작중)
-Next.js, SCSS 모듈 기반 디자인 시스템
+## Podo-ui - 디자인 시스템
+React, SCSS 모듈 기반 디자인 시스템
 - Git : https://github.com/hada0127/podo-ui
+- NPM : https://www.npmjs.com/package/podo-ui
+
+## Peach Leaf 
+MacOS용 Markdown Stiker Note
+- Git : https://github.com/hada0127/peach-leaf
 
 ## Pado - Reactive 라이브러리(제작중)
 풀스택 웹사이트 제작이 가능한 Reactive 라이브러리
