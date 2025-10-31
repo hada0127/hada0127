@@ -1,6 +1,7 @@
 # 개인 프로젝트
 ## Podo-ui - 디자인 시스템
 React, SCSS 모듈 기반 디자인 시스템
+- 설명서 : https://podoui.com
 - Git : https://github.com/hada0127/podo-ui
 - NPM : https://www.npmjs.com/package/podo-ui
 
