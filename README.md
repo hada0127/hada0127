@@ -15,6 +15,8 @@ MacOS용 Markdown Stiky Notes
 - Git : https://github.com/hada0127/peach-leaf
 
 ## 문서 글자수 카운터
+OCR 기능 탑재 / 브라우저 기반 동작
+txt, pdf, pptx, docx, xlsx, 이미지 파일등 지원
 - https://count-text.hada0127.net
 - Git: https://github.com/hada0127/count-text
 
