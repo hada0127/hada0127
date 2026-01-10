@@ -5,6 +5,11 @@ React, SCSS 모듈 기반 디자인 시스템
 - Git : https://github.com/hada0127/podo-ui
 - NPM : https://www.npmjs.com/package/podo-ui
 
+## cc-telegram
+Claude Code를 Telegram에서 실행할 수 있는 npx 스크립트
+- Git : https://github.com/hada0127/cc-telegram
+- NPM : https://www.npmjs.com/package/cc-telegram
+
 ## Spectrum Survive
 html5, vanilla js 게임
 키보드, 마우스, 터치, 게임패드 지원, 홈화면에 추가
