@@ -15,6 +15,11 @@ html5, vanilla js 게임
 키보드, 마우스, 터치, 게임패드 지원, 홈화면에 추가
 - https://spectrum-survive.hada0127.net
 
+## 아! 고양이를 피해라 대왕
+gba용 게임. 2003년 gp32용으로 만든 것을 gba용으로 다시 포팅.
+- Git : https://github.com/hada0127/azcat-gba
+- Download : https://github.com/hada0127/azcat-gba/releases/tag/v1.1.0
+
 ## Peach Leaf 
 MacOS용 Markdown Stiky Notes
 - Git : https://github.com/hada0127/peach-leaf
