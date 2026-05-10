@@ -10,6 +10,10 @@ Claude Code를 Telegram에서 실행할 수 있는 npx 스크립트
 - Git : https://github.com/hada0127/cc-telegram
 - NPM : https://www.npmjs.com/package/cc-telegram
 
+## 무라마사 리버스(오보로 무라마사) vita판 한글화
+- Git : https://github.com/hada0127/muramasa-kor
+- Download : https://github.com/hada0127/muramasa-kor/releases
+
 ## Spectrum Survive
 html5, vanilla js 게임
 키보드, 마우스, 터치, 게임패드 지원, 홈화면에 추가
