@@ -10,6 +10,11 @@ Claude Code를 Telegram에서 실행할 수 있는 npx 스크립트
 - Git : https://github.com/hada0127/cc-telegram
 - NPM : https://www.npmjs.com/package/cc-telegram
 
+## alauncher
+안드로이드 태블릿용 미니멀 런처
+- Git : https://github.com/hada0127/alauncher
+- Download : https://github.com/hada0127/alauncher/releases
+
 ## 무라마사 리버스(오보로 무라마사) vita판 한글화
 - Git : https://github.com/hada0127/muramasa-kor
 - Download : https://github.com/hada0127/muramasa-kor/releases
