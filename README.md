@@ -2,7 +2,7 @@
 ## Podo-ui - 디자인 시스템
 React, Svelte, SCSS 모듈 기반 디자인 시스템
 - 설명서 : https://podoui.com
-- Git : https://github.com/hada0127/podo-ui
+- Git : https://github.com/podoui/podoui
 - NPM : https://www.npmjs.com/package/podo-ui
 
 ## cc-telegram
