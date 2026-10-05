@@ -10,6 +10,11 @@ Sans, 바탕, 베리어블 폰트등 자작 폰트
 - https://type.hada0127.net
 - Git : https://github.com/hada0127/hada-type
 
+## 이미지 클리너
+사진 메타데이터(EXIF·C2PA·PNG 텍스트 청크) 제거 + 리사이즈 + 256색 변환
+브라우저 안에서만 처리, 서버 업로드 없음 / 모바일 지원
+- https://img.hada0127.net
+
 ## cc-telegram
 Claude Code를 Telegram에서 실행할 수 있는 npx 스크립트
 - Git : https://github.com/hada0127/cc-telegram
