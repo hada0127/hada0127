@@ -51,6 +51,7 @@ txt, pdf, pptx, docx, xlsx, 이미지 파일등 지원
 
 ## 번역 스위치 (Translate Switch)
 웹 페이지에서 외국어 문장만 골라 내 언어로 바꿔 주는 Chrome 확장 프로그램
+단축키 ⌘K / Ctrl+K 로 바로 번역 켜고 끄기
 Chrome 내장 번역기(기기 내 처리) 사용, 페이지 내용 외부 전송 없음 / 마우스 올리면 원문 표시
 - Chrome 웹 스토어 : https://chromewebstore.google.com/detail/dchebakphhaeinoogimpjaledljpgbah
 - Git : https://github.com/hada0127/translate-switch
