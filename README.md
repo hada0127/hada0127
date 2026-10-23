@@ -73,3 +73,7 @@ hdmi 캡쳐카드용 레트로 비디오 게임 필터 어플리케이션
 ## taru_mouse 영문 폰트
 마우스로 한땀한땀그린 폰트
 - 배포 : https://font.tarucy.net
+
+## CleanPaste
+⌘⇧V로 서식 없이 붙여넣는 작은 macOS 메뉴 막대 앱
+- Git : https://github.com/hada0127/cleanpaste
