@@ -61,11 +61,6 @@ Chrome 내장 번역기(기기 내 처리) 사용, 페이지 내용 외부 전�
 - Git : https://github.com/hada0127/sadmin
 - Figma Plugin : https://www.figma.com/community/plugin/1210383539277701315/sadmin
 
-## 레트로 비디오 게임 필터
-hdmi 캡쳐카드용 레트로 비디오 게임 필터 어플리케이션
-- 배포 : https://github.com/hada0127/videogamefilter/releases
-- Git : https://github.com/hada0127/videogamefilter
-
 ## Webmidi Visualizer
 에이블톤과 연동한 Webmidi Visualizer 
 - Git : https://github.com/hada0127/webmidi
@@ -77,3 +72,8 @@ hdmi 캡쳐카드용 레트로 비디오 게임 필터 어플리케이션
 ## CleanPaste
 ⌘⇧V로 서식 없이 붙여넣는 작은 macOS 메뉴 막대 앱
 - Git : https://github.com/hada0127/cleanpaste
+
+## Video Game Filter
+캡처 카드 화면에 CRT·스캔라인 효과를 더하는 macOS 앱
+- 배포 : https://github.com/hada0127/videogamefilter/releases/latest
+- Git : https://github.com/hada0127/videogamefilter
