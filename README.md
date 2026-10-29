@@ -77,3 +77,8 @@ Chrome 내장 번역기(기기 내 처리) 사용, 페이지 내용 외부 전�
 캡처 카드로 스위치 화면을 보는 macOS 앱. CRT·스캔라인 효과, 라즈베리파이를 통한 컨트롤러 입력 지원
 - 배포 : https://github.com/hada0127/switch-remote/releases/latest
 - Git : https://github.com/hada0127/switch-remote
+
+## WinOpen (윈도우경로열기)
+윈도우 공유 경로(\\서버\공유)를 macOS 파인더에서 바로 여는 메뉴 막대 앱. 즐겨찾기, 파인더 새 탭으로 열기
+- 배포 : https://github.com/hada0127/winopen/releases/latest
+- Git : https://github.com/hada0127/winopen
